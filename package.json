@@ -1,11 +1,11 @@
 {
-  "name": "cackle",
+  "name": "cackleclub",
   "version": "0.1.0",
-  "description": "Cackle, ya know?",
+  "description": "Cackleclub?",
   "main": "index.js",
   "scripts": {
     "start": "webpack-dev-server --mode development",
-    "build": "webpack"
+    "build": "webpack --build"
   },
   "repository": {
     "type": "git",
